@@ -6,4 +6,4 @@
 
 
 - I have also made a website based on these programs where you can see the current market situation in Helsinki. The data is updated daily.
-- https://otiedap.herokuapp.com/
+- ~~https://otiedap.herokuapp.com/~~
